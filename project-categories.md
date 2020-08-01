@@ -6,7 +6,9 @@ An independent or capstone project will fall into one of several possible media 
 
 Each of the categories below includes examples of specific project types, recommended production requirements, and expectations for a proof of concept. 
 
-Because these guides are used in both DMD-300 and DMD-400, the pages are hosted a separate Gitbook that can be used by students in both classes: [https://dmd-program.github.io/art-design-course-resources](https://dmd-program.github.io/art-design-course-resources)
+Because these guides are used in both DMD-300 and DMD-400, the pages are hosted a separate Gitbook that can be used by students in both classes: 
+
+**Access Link:** [DMD Art and Design Resources](https://dmd-program.github.io/art-design-course-resources)
 
 ## Categories
 
