@@ -45,6 +45,9 @@ The Work Statement is specifically about this project, but artist statements are
 * [Sample Artist Statements](https://www.gyst-ink.com/sample-artist-statements)
 * [Artist Statements We Love](https://www.theartleague.org/blog/2015/08/24/8-artist-statements-we-love/)
 
+## Example of Student Work
+View a [sample work statement \(pdf\)](assets/sample-work-statement.pdf) from a previous student.
+
 ## Submission details:
 
 1. Upload the work statement as an MS Word Document to Canvas as indicated deadlines.

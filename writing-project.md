@@ -48,5 +48,7 @@ Please use MS Word for this project.
 * [Smashing Magazine's list of uncommon inspiration sources](https://www.smashingmagazine.com/2010/02/finding-inspiration-in-uncommon-sources-12-places-to-look/): links to various publications and IRL design examples like architecture and package design.
 * **The world around you**: look through your books, albums, video games, or other design work that you love and find out who made it.
 
+## Example of Student Work
 
+View a [sample essay \(pdf\)](assets/sample-work-statement.pdf) from a previous student.
 
